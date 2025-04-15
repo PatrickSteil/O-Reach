@@ -8,6 +8,8 @@
 #ifndef REACH_QUERY_H
 #define REACH_QUERY_H
 
+#include <cstdint>
+
 #include "extern/KaHIP/lib/definitions.h"
 
 struct Query {
